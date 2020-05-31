@@ -12,6 +12,7 @@
 
 ### What is? 🤔
 A program that receives a height of a stair and returns it on console. For example:<br>
+<br>
 <img src="./.github/mariostair.png" alt="mariostair" width="30%"/>	
 <hr>
 
@@ -19,8 +20,7 @@ A program that receives a height of a stair and returns it on console. For examp
 - C language
 <hr>
 
-### Look the final result 📺
-<br>
+### Look the final result 📺<br>
 ![mariogif](./.github/mario.gif)
 <hr>
 
