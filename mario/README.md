@@ -13,7 +13,7 @@
 ### What is? 🤔
 A program that receives a height of a stair and returns it on console. For example:<br>
 <br>
-<img src="./.github/mariostair.png" alt="mariostair" width="30%"/>	
+<img src="./.github/mariostair.png" alt="mariostair" width="15%"/>	
 <hr>
 
 ### Which technologies were used? 💻
