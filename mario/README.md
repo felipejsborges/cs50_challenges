@@ -11,7 +11,8 @@
 </div>
 
 ### What is? 🤔
-A program that receives a height of a stairs and returns it on console. For example:<br>
+A program that gets a height and returns the corresponding stairs on console. For example:<br>
+
 <br>
 <div align="center">	
 	<img src="./.github/mariostair.png" alt="mariostair" width="15%"/>
