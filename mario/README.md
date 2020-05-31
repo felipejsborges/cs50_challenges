@@ -6,14 +6,17 @@
 	<h1>Mario 🍄</h1>	
 </div>
 
-<div align="center" style:"font-size: 12px">	
+<div align="center">	
 	<a href="https://github.com/felipejsborges/cs50_challenges">Back to all projects</a>
 </div>
 
 ### What is? 🤔
 A program that receives a height of a stair and returns it on console. For example:<br>
 <br>
-<img src="./.github/mariostair.png" alt="mariostair" width="15%"/>	
+<div align="center">	
+	<img src="./.github/mariostair.png" alt="mariostair" width="15%"/>
+</div>
+
 <hr>
 
 ### Which technologies were used? 💻
