@@ -19,7 +19,7 @@ Basically, an algorithm is a sequence of instructions to solve problems, or a se
 <hr>
 
 ### What algorithms I can find here? ✅
-- **Linear Search**:
+### Linear Search
 **Pseudocode**
 - repeat, starting at the first element
   - if it is what we are looking for, stop. otherwise, move to the next element 
@@ -28,7 +28,7 @@ Basically, an algorithm is a sequence of instructions to solve problems, or a se
 - best-case: the target is the first element of the array
 **[Test it!](https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#linearsearch.c)**
 <hr>
-- **Binary Search**
+### Binary Search
 **Pseudocode**
 - repeat until the (sub)array is of size 0
   - calculate the middle pointo of the current (sub)array, if the target is at the middle, stop
