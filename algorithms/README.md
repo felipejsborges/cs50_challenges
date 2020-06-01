@@ -17,8 +17,11 @@ Basically, an algorithm is a sequence of instructions to solve problems, or a se
 ### Which technologies were used? 💻
 - C language
 <hr>
+
 ### What algorithms I can find here? ✅
+
 ### Linear Search
+
 **Pseudocode:**
 ```
 repeat, starting at the first element
@@ -30,7 +33,9 @@ repeat, starting at the first element
 <br>
 <a href="https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#linearsearch.c">Test it!</a>
 <hr>
+
 ### Binary Search
+
 **Pseudocode:**
 ```
 repeat until the (sub)array is of size 0
@@ -38,11 +43,13 @@ repeat until the (sub)array is of size 0
 	otherwise, if the target is less than the middle point, repeat changing the end point to be the previous element of the middle point
 	otherwise, if the target is greater than the middle point, repeat changing the start point to be the next element of the middle point
 ```
+
 **Scenario:**
 - worst-case: we have to divide the array repeatedly to find the target until the middle point is the last possible division -> O(log n)
 - best-case: the target is at the first middle point -> Ω(1)
 <br>
 <a href="https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#binarysearch.c">Test it!</a>
 <hr>
+
 by Felipe Borges<br>
 [LinkedIn](https://www.linkedin.com/in/felipejsborges) | [GitHub](https://github.com/felipejsborges)
