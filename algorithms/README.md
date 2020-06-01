@@ -40,7 +40,8 @@ repeat, starting at the first element
 - worst-case: we have to look through the entire array -> O(n)
 - best-case: the target is the first element of the array -> Ω(1)<br>
 <br>
-<a href="https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#linearsearch.c">Test it!</a>
+<a href="https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#linearsearch.c">Test it!</a> or
+<a href="#What-algorithms-I-can-find-here-">Back to top</a>
 <hr>
 
 ### Binary Search
@@ -76,7 +77,8 @@ repeat until the swap counter is 0
 - worst-case: the array is in reverse order and we have to bubble each n elements and do it n times -> O(n²)
 - best-case: the array is already sorted and we just moving line between sorted elements -> Ω(n)
 <br>
-<a href="https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#bubblesort.c">Test it!</a>
+<a href="https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#bubblesort.c">Test it!</a> or
+<a href="#What-algorithms-I-can-find-here-">Back to top</a>
 <hr>
 
 ### Insertion Sort
@@ -92,7 +94,8 @@ Repeat util all elements are sorted
 - worst-case: the array is in reverse order and we have to shift each n elements n positions each time -> O(n²)
 - best-case: the array is already sorted and we just moving line between sorted elements -> Ω(n)
 <br>
-<a href="https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#insertionsort.c">Test it!</a>
+<a href="https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#insertionsort.c">Test it!</a> or
+<a href="#What-algorithms-I-can-find-here-">Back to top</a>
 <hr>
 
 ### Selection Sort
@@ -107,7 +110,8 @@ repeat until no unsorted elements remain
 - worst-case: we have to iterate over each of n elements and must repeat this n times
 - best-case: the same -> Θ(n²)
 <br>
-<a href="https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#selectionsort.c">Test it!</a>
+<a href="https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#selectionsort.c">Test it!</a> or
+<a href="#What-algorithms-I-can-find-here-">Back to top</a>
 <hr>
 
 ### Merge Sort
@@ -126,7 +130,8 @@ Else
 - worst-case: we have to iterate over each of n elements and must repeat this n times
 - best-case: the same -> Θ(n log n)
 <br>
-Test coming soon!
+Test coming soon! or
+<a href="#What-algorithms-I-can-find-here-">Back to top</a>
 <hr>
 
 by Felipe Borges<br>
