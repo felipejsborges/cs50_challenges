@@ -20,14 +20,14 @@ Basically, an algorithm is a sequence of instructions to solve problems, or a se
 
 ### What algorithms I can find here? ✅
 ### Linear Search
-**Pseudocode**
+**Pseudocode:**
 ```
 repeat, starting at the first element
 	if it is what we are looking for, stop. otherwise, move to the next element
 ```
-**Scenario - O(n), Ω(1)**
-- worst-case: we have to look through the entire array
-- best-case: the target is the first element of the array<br>
+**Scenario:**
+- worst-case: we have to look through the entire array -> O(n)
+- best-case: the target is the first element of the array -> Ω(1)<br>
 <br>
 <a href="https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#linearsearch.c">Test it!</a>
 <hr>
