@@ -24,7 +24,7 @@ A [program](./mario.c) that gets a height and returns the corresponding stairs o
 - C language
 <hr>
 
-### Look the final result 📺<br>
+### Look at the final result 📺<br>
 ![mariogif](./.github/mario.gif)
 <hr>
 
