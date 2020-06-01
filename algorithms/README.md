@@ -28,7 +28,6 @@ repeat, starting at the first element
 **Scenario:**
 - worst-case: we have to look through the entire array -> O(n)
 - best-case: the target is the first element of the array -> Ω(1)<br>
-<br>
 <a href="https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#linearsearch.c">Test it!</a>
 <hr>
 ### Binary Search
