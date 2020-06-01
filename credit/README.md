@@ -26,7 +26,7 @@ And how we can define the **credit card operator**?
 - C language
 <hr>
 
-### Look the final result 📺<br>
+### Look at the final result 📺<br>
 ![creditgif](./.github/credit.gif)
 <hr>
 
