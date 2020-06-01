@@ -20,6 +20,7 @@ Basically, an algorithm is a sequence of instructions to solve problems, or a se
 
 ### What algorithms I can find here? ✅
 ### Linear Search
+**[Test it!](https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#linearsearch.c)**<br>
 **Pseudocode**
 ```
 repeat, starting at the first element
@@ -28,8 +29,6 @@ repeat, starting at the first element
 **scenario - O(n), Ω(1)**
 - worst-case: we have to look through the entire array
 - best-case: the target is the first element of the array<br>
-<br>
-**[Test it!](https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#linearsearch.c)**
 <hr>
 ### Binary Search
 **Pseudocode**
