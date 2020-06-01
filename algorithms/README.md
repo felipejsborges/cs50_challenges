@@ -22,10 +22,10 @@ Basically, an algorithm is a sequence of instructions to solve problems, or a se
 ### Linear Search
 **Pseudocode**
 - repeat, starting at the first element
-  - if it is what we are looking for, stop. otherwise, move to the next element 
+  - if it is what we are looking for, stop. otherwise, move to the next element<br>
 **scenario - O(n), Ω(1)**
 - worst-case: we have to look through the entire array
-- best-case: the target is the first element of the array
+- best-case: the target is the first element of the array<br>
 **[Test it!](https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#linearsearch.c)**
 <hr>
 ### Binary Search
