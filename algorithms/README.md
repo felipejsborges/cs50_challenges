@@ -30,7 +30,7 @@ repeat, starting at the first element
 - best-case: the target is the first element of the array -> Ω(1)<br>
 <br>
 <a href="https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#linearsearch.c">Test it!</a>
-<br>
+<hr>
 ### Binary Search
 **Pseudocode:**
 ```
