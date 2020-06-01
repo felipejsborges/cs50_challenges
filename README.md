@@ -26,5 +26,9 @@ An online course of [Harvard](https://online-learning.harvard.edu/) that provide
 - [Plurality](/plurality)
 <hr>
 
+### How can I test these programs? 🖥
+In CS50, we use [their own IDE](https://ide.cs50.io/), and they have a private header, <cs50.h>, that provide some functions to the students. So, a lot of these programs above only will work in that environment. But it's easy to use. Just access de IDE url and connect to github, then upload the `programFile.c`, execute the command `make programFile` on the console and test it! If the program doesn't have the cs50 header, you can test it on [repl](https://repl.it/languages/c).
+<hr>
+
 by Felipe Borges<br>
 [LinkedIn](https://www.linkedin.com/in/felipejsborges) | [GitHub](https://github.com/felipejsborges)
