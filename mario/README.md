@@ -11,7 +11,7 @@
 </div>
 
 ### What is? 🤔
-A [program](/mario.c) that gets a height and returns the corresponding stairs on console. For example:<br>
+A [program](./mario.c) that gets a height and returns the corresponding stairs on console. For example:<br>
 
 <br>
 <div align="center">	
