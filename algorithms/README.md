@@ -44,7 +44,7 @@ repeat, starting at the first element
 <a href="#What-algorithms-I-can-find-here-">Back to top</a>
 <hr>
 
-### Binary Search
+### [Binary Search](./binarysearch.c)
 
 **Pseudocode:**
 ```
@@ -62,7 +62,7 @@ repeat until the (sub)array is of size 0
 <a href="#What-algorithms-I-can-find-here-">Back to top</a>
 <hr>
 
-### Bubble Sort
+### [Bubble Sort](./bubblesort.c)
 
 **Pseudocode:**
 ```
@@ -81,7 +81,7 @@ repeat until the swap counter is 0
 <a href="#What-algorithms-I-can-find-here-">Back to top</a>
 <hr>
 
-### Insertion Sort
+### [Insertion Sort](./insertionsort.c)
 
 **Pseudocode:**
 ```
@@ -98,7 +98,7 @@ Repeat util all elements are sorted
 <a href="#What-algorithms-I-can-find-here-">Back to top</a>
 <hr>
 
-### Selection Sort
+### [Selection Sort](./selectionsort.c)
 
 **Pseudocode:**
 ```
