@@ -43,10 +43,6 @@ repeat until the (sub)array is of size 0
 - best-case: the target is at the first middle point -> Ω(1)
 <br>
 <a href="https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#binarysearch.c">Test it!</a>
-<br>
-
-
 <hr>
-
 by Felipe Borges<br>
 [LinkedIn](https://www.linkedin.com/in/felipejsborges) | [GitHub](https://github.com/felipejsborges)
