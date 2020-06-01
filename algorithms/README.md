@@ -25,7 +25,7 @@ Basically, an algorithm is a sequence of instructions to solve problems, or a se
 repeat, starting at the first element
 	if it is what we are looking for, stop. otherwise, move to the next element
 ```
-**scenario - O(n), Ω(1)**
+**Scenario - O(n), Ω(1)**
 - worst-case: we have to look through the entire array
 - best-case: the target is the first element of the array<br>
 <br>
