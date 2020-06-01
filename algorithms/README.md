@@ -29,7 +29,7 @@ Basically, an algorithm is a sequence of instructions to solve problems, or a se
 	<a href="#merge-sort">Merge Sort</a>	
 </div>
 
-### Linear Search
+### [Linear Search](./linearsearch.c)
 
 **Pseudocode:**
 ```
