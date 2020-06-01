@@ -17,7 +17,6 @@ Basically, an algorithm is a sequence of instructions to solve problems, or a se
 ### Which technologies were used? 💻
 - C language
 <hr>
-<div>
 ### What algorithms I can find here? ✅
 ### Linear Search
 **Pseudocode:**
@@ -31,8 +30,6 @@ repeat, starting at the first element
 <br>
 <a href="https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#linearsearch.c">Test it!</a>
 <hr>
-</div>
-
 ### Binary Search
 **Pseudocode:**
 ```
