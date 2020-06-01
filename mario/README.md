@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">	
-	<a href="https://github.com/felipejsborges/cs50_challenges">Back to all projects</a>
+	<a href="https://github.com/felipejsborges/cs50_challenges#where-do-i-find-the-challenges-">Back to all projects</a>
 </div>
 
 ### What is? 🤔
