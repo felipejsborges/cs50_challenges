@@ -51,5 +51,73 @@ repeat until the (sub)array is of size 0
 <a href="https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#binarysearch.c">Test it!</a>
 <hr>
 
+### Bubble Sort
+
+**Pseudocode:**
+```
+set swap counter to a non-zero value
+repeat until the swap counter is 0
+	reset the swap counter to 0
+	look at each adjacent pair
+		if two adjacent elements are not in order, swap them and add one to the swap counter
+```
+
+**Scenario:**
+- worst-case: the array is in reverse order and we have to bubble each n elements and do it n times -> O(n²)
+- best-case: the array is already sorted and we just moving line between sorted elements -> Ω(n)
+<br>
+<a href="https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#bubblesort.c">Test it!</a>
+<hr>
+
+### Insertion Sort
+
+**Pseudocode:**
+```
+call the first element of the array "sorted"
+Repeat util all elements are sorted
+	Look at the next unsorted element and call it "sorted" by shifting the requisite number of elements
+```
+
+**Scenario:**
+- worst-case: the array is in reverse order and we have to shift each n elements n positions each time -> O(n²)
+- best-case: the array is already sorted and we just moving line between sorted elements -> Ω(n)
+<br>
+<a href="https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#insertionsort.c">Test it!</a>
+<hr>
+
+### Selection Sort
+
+**Pseudocode:**
+```
+repeat until no unsorted elements remain
+	search the unsorted part of the data to find the smallest value then swap it with the first element of the unsorted part
+```
+
+**Scenario:**
+- worst-case: we have to iterate over each of n elements and must repeat this n times
+- best-case: the same -> Θ(n²)
+<br>
+<a href="https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#selectionsort.c">Test it!</a>
+<hr>
+
+### Merge Sort
+
+**Pseudocode:**
+```
+If only one item
+  Return
+Else
+    Sort left half of items
+    Sort right half of items
+    Merge sorted halves
+```
+
+**Scenario:**
+- worst-case: we have to iterate over each of n elements and must repeat this n times
+- best-case: the same -> Θ(n log n)
+<br>
+Test coming soon!
+<hr>
+
 by Felipe Borges<br>
 [LinkedIn](https://www.linkedin.com/in/felipejsborges) | [GitHub](https://github.com/felipejsborges)
