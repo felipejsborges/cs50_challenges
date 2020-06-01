@@ -20,6 +20,15 @@ Basically, an algorithm is a sequence of instructions to solve problems, or a se
 
 ### What algorithms I can find here? ✅
 
+<div align="center">
+	<a href="#linear-search">Linear Search</a> |
+	<a href="#binary-search">Binary Search</a> |
+	<a href="#bubble-sort">Bubble Sort</a> |
+	<a href="#insertion-sort">Insertion Sort</a> |
+	<a href="#selection-sort">Selection Sort</a> |
+	<a href="#merge-sort">Merge Sort</a>	
+</div>
+
 ### Linear Search
 
 **Pseudocode:**
@@ -48,7 +57,8 @@ repeat until the (sub)array is of size 0
 - worst-case: we have to divide the array repeatedly to find the target until the middle point is the last possible division -> O(log n)
 - best-case: the target is at the first middle point -> Ω(1)
 <br>
-<a href="https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#binarysearch.c">Test it!</a>
+<a href="https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#binarysearch.c">Test it!</a> or
+<a href="#What-algorithms-I-can-find-here-">Back to top</a>
 <hr>
 
 ### Bubble Sort
