@@ -12,9 +12,13 @@
 
 ### What is? 🤔
 Basically, an algorithm is a sequence of instructions to solve problems, or a set of rules that precisely defines a sequence of operations. For example, in computation, we can use a language to set this rules/instructions to find a item on a list or sort them.
+<hr>
+
+### Which technologies were used? 💻
+- C language
+<hr>
 
 ### What algorithms I can find here? ✅
-Click on a algorithm to test it on Repl
 #### Searching
 ##### Linear
 **Pseudocode**
@@ -23,8 +27,9 @@ Click on a algorithm to test it on Repl
 **scenario - O(n), Ω(1)**
 - worst-case: we have to look through the entire array
 - best-case: the target is the first element of the array
+**[Test it!](https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#linearsearch.c)**
 <br>
-##### [Binary](https://repl.it/repls/AdoredUnfitFilesize)
+##### Binary
 **Pseudocode**
 - repeat until the (sub)array is of size 0
   - calculate the middle pointo of the current (sub)array, if the target is at the middle, stop
@@ -33,16 +38,9 @@ Click on a algorithm to test it on Repl
 **scenario - O(log n), Ω(1)**
 - worst-case: we have to divide the array repeatedly to find the target until the middle point is the last possible division
 - best-case: the target is at the first middle point
+**[Test it!](https://repl.it/@FelipeBorges3/AdoredUnfitFilesize#binarysearch.c)**
 <br>
 #### Sorting
-<hr>
-
-### Which technologies were used? 💻
-- C language
-<hr>
-
-### Look at the final result 📺<br>
-![pluralitygif](./.github/plurality.gif)
 <hr>
 
 by Felipe Borges<br>
