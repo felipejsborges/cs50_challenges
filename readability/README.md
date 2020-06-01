@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-	<h1>Credit 💳</h1>	
+	<h1>Readability 📖</h1>	
 </div>
 
 <div align="center">	
