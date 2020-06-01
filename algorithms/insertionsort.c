@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-// how does the Selection Sort Works? -> Θ(n²)
+// how does the Insertion Sort Works? -> Θ(n²)
 int main(void)
 {
     // unsorted array and it size
