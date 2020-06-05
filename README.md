@@ -24,6 +24,8 @@ An online course of [Harvard](https://online-learning.harvard.edu/) that provide
 - [Algorithms](/algorithms)
 
 - [Plurality](/plurality)
+
+- [Tideman](/tideman)
 <hr>
 
 by Felipe Borges<br>
