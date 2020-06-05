@@ -43,7 +43,7 @@ To handle this, the Tideman algorithm specifies that matchup edges should be “
 Once the graph is complete, the source of the graph is the winner!
 <hr>
 
-### What does the program need to do? ✅
+### What does the program need to do? ✅<br>
 
 ### Create `vote` function
 - The function takes arguments rank, name, and ranks. If name is a match for the name of a valid candidate, then you should update the ranks array to indicate that the voter has the candidate as their rank preference (where 0 is the first preference, 1 is the second preference, etc.)
