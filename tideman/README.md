@@ -84,5 +84,9 @@ Once the graph is complete, the source of the graph is the winner!
 ![tideman](./.github/tideman.gif)
 <hr>
 
+### Tests ✅<br>
+<img src="./.github/tidemantests.png" alt="tidemantests" width="50%"/>
+<hr>
+
 by Felipe Borges<br>
 [LinkedIn](https://www.linkedin.com/in/felipejsborges) | [GitHub](https://github.com/felipejsborges)
