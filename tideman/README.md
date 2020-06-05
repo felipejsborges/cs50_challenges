@@ -12,7 +12,7 @@
 </div>
 
 ### What is? 🤔
-A [program](./tideman.c) that is a ranked-choice voting system. Each voter specify their first to ith preference candidate, creating a candidate rank array. Analyzing this array: the first candidate wins a head-to-head matchup against second, third, ..., and ith candidate. The second candidate wins against third, fourth, ..., and ith, and so forth.
+A [program](./tideman.c) to run a ranked-choice voting system. Each voter specify their first to ith preference candidate, creating a candidate rank array. Analyzing this array: the first candidate wins a head-to-head matchup against second, third, ..., and ith candidate. The second candidate wins against third, fourth, ..., and ith, and so forth.
 <hr>
 
 ### Who wins? 🤔
