@@ -17,14 +17,16 @@ A [program](./tideman.c) to run a ranked-choice voting system. Each voter specif
 
 ### Who wins? 🏆
 A “graph” of candidates is constructed, where an arrow from candidate A to candidate B indicates that candidate A wins against candidate B in a head-to-head matchup. The winner of the election should be the “source” of the graph, the candidate that has no arrow pointing at them.
-
-<img src="https://cs50.harvard.edu/x/2020/psets/3/condorcet_graph_1.png" alt="" width="50%"/>
+<div align="center">
+	<img src="https://cs50.harvard.edu/x/2020/psets/3/condorcet_graph_1.png" alt="" width="50%"/>
+</div>
 
 In the image below, Alice is the winner.
 
 It’s possible, however, that when the arrows are drawn, there is no winner.
-
-<img src="https://cs50.harvard.edu/x/2020/psets/3/no_condorcet_1.png" alt="" width="50%"/>
+<div align="center">
+	<img src="https://cs50.harvard.edu/x/2020/psets/3/no_condorcet_1.png" alt="" width="80%"/>
+</div>
 
 To handle this, the Tideman algorithm specifies that matchup edges should be “locked in” to the graph one at a time, based on the “strength” of the victory (the more people who prefer a candidate over their opponent, the stronger the victory). So long as the edge can be locked into the graph without creating a cycle, the edge is added; otherwise, the edge is ignored.
 <hr>
