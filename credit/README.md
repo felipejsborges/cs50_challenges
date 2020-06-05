@@ -7,6 +7,7 @@
 </div>
 
 <div align="center">	
+	<a href="https://cs50.harvard.edu/x/2020/psets/1/mario/more/">See it on CS50x page</a>
 	<a href="https://github.com/felipejsborges/cs50_challenges#cs50x-challenges-">Back to all projects</a>
 </div>
 
