@@ -28,7 +28,7 @@ A [program](./helpers.c) that a user can apply grayscale, reflection, blur, or e
 <hr>
 
 ### Look at the final result 📺<br>
-**Grayscale**
+<strong align="center">Grayscale</strong>
 ![grayscale](./.github/grayscale.gif)
 
 **Reflect**
