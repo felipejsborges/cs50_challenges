@@ -15,7 +15,7 @@
 A [program](./recover.c) to **recover** deleted **images**.
 <hr>
 
-### How I had to create this program? ✅
+### What this program does? ✅
 
 - It should accept exactly one command-line argument, the name of a forensic image from which to recover JPEGs, and remind the user of correct usage ( Usage: ./recover image ), and main should return 1.
 
@@ -34,7 +34,7 @@ A [program](./recover.c) to **recover** deleted **images**.
 <hr>
 
 ### Tests ✅<br>
-<img src="./.github/tests.png" alt="tidemantests" width="50%"/>
+<img src="./.github/tests.png" alt="tidemantests" width="80%"/>
 <hr>
 
 by Felipe Borges<br>
