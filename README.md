@@ -13,19 +13,33 @@ An online course of [Harvard](https://online-learning.harvard.edu/) that provide
 <hr>
 
 ### Where do I find the challenges? 🔍
+* Problem Set 1 *
+
 - [Mario](/mario)
 
 - [Credit](/credit)
+
+* Problem Set 2 *
 
 - [Readability](/readability)
 
 - [Substitution](/substitution)
 
-- [Algorithms](/algorithms)
+* Problem Set 3 *
 
 - [Plurality](/plurality)
 
 - [Tideman](/tideman)
+
+* Problem Set 3 *
+
+- [Filter](/filter)
+
+- [Recover](/recover)
+
+* Extra *
+
+- [Algorithms](/algorithms)
 <hr>
 
 by Felipe Borges<br>
