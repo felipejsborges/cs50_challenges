@@ -17,11 +17,11 @@ A [program](./recover.c) to **recover** deleted **images**.
 
 ### What this program does? ✅
 
-- It should accept exactly one command-line argument, the name of a forensic image from which to recover JPEGs, and remind the user of correct usage ( Usage: ./recover image ), and main should return 1.
+- Accept exactly one command-line argument, the name of a forensic image from which to recover JPEGs, and remind the user of correct usage ( Usage: ./recover image ), and main should return 1.
 
-- It should recover every one of the JPEGs from .raw file, storing each as a separate file in current working directory. To do that, we had to look at the first four bytes of every block of the original file and see if it contains jpeg headers.
+- Recover every one of the JPEGs from a .raw file, storing each as a separate file in current working directory. To do that, we had to look at the first four bytes of every block of the original file and see if it contains jpeg headers.
 
-- It should number the files it outputs by naming each ###.jpg, where ### is three-digit decimal number from 000 on up.
+- Number the files it outputs by naming each ###.jpg, where ### is three-digit decimal number from 000 on up.
 <hr>
 
 ### Which technologies were used? 💻
