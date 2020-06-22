@@ -30,22 +30,22 @@ A [program](./helpers.c) that a user can apply grayscale, reflection, blur, or e
 ### Look at the final result 📺<br>
 <div align="center">
 	<strong>Grayscale</strong>
-<div>
+</div>
 ![grayscale](./.github/grayscale.gif)
 
 <div align="center">
 	<strong>Reflect</strong>
-<div>
+</div>
 ![reflect](./.github/reflect.gif)
 
 <div align="center">
 	<strong>Blur</strong>
-<div>
+</div>
 ![blur](./.github/blur.gif)
 
 <div align="center">
 	<strong>Edges</strong>
-<div>
+</div>
 ![edges](./.github/edges.gif)
 <hr>
 
