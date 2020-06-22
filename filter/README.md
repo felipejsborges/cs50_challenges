@@ -15,14 +15,12 @@
 A [program](./helpers.c) that a user can apply grayscale, reflection, blur, or edge detection **filters to their images**.
 <hr>
 
-### How I had to create this program? ✅
+### What does this program do? ✅
 
-Implementing in helpers.c:
-
-- The grayscale function should take an image and turn it into a black-and-white version of the same image.
-- The reflect function should take an image and reflect it horizontally.
-- The blur function should take an image and turn it into a box-blurred version of the same image.
-- The edges function should take an image and highlight the edges between objects, according to the Sobel operator.
+- The grayscale function take an image and turn it into a black-and-white version of the same image.
+- The reflect function take an image and reflect it horizontally.
+- The blur function take an image and turn it into a box-blurred version of the same image.
+- The edges function take an image and highlight the edges between objects, according to the [Sobel operator](https://medium.com/datadriveninvestor/understanding-edge-detection-sobel-operator-2aada303b900).
 <hr>
 
 ### Which technologies were used? 💻
@@ -44,7 +42,7 @@ Implementing in helpers.c:
 <hr>
 
 ### Tests ✅<br>
-<img src="./.github/tests.png" alt="tidemantests" width="50%"/>
+<img src="./.github/tests.png" alt="tidemantests" width="80%"/>
 <hr>
 
 by Felipe Borges<br>
