@@ -13,31 +13,31 @@ An online course of [Harvard](https://online-learning.harvard.edu/) that provide
 <hr>
 
 ### Where do I find the challenges? 🔍
-* Problem Set 1 *
+<a href="https://cs50.harvard.edu/x/2020/psets/1/"><strong>Problem Set 1</strong></a>
 
 - [Mario](/mario)
 
 - [Credit](/credit)
 
-* Problem Set 2 *
+<a href="https://cs50.harvard.edu/x/2020/psets/2/"><strong>Problem Set 2</strong></a>
 
 - [Readability](/readability)
 
 - [Substitution](/substitution)
 
-* Problem Set 3 *
+<a href="https://cs50.harvard.edu/x/2020/psets/3/"><strong>Problem Set 3</strong></a>
 
 - [Plurality](/plurality)
 
 - [Tideman](/tideman)
 
-* Problem Set 3 *
+<a href="https://cs50.harvard.edu/x/2020/psets/4/"><strong>Problem Set 4</strong></a>
 
 - [Filter](/filter)
 
 - [Recover](/recover)
 
-* Extra *
+<strong>Extra</strong>
 
 - [Algorithms](/algorithms)
 <hr>
