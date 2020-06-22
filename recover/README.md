@@ -15,7 +15,7 @@
 A [program](./recover.c) to **recover** deleted **images**.
 <hr>
 
-### What this program does? ✅
+### What does this program do? ✅
 
 - Accept exactly one command-line argument, the name of a forensic image from which to recover JPEGs, and remind the user of correct usage ( Usage: ./recover image ), and main should return 1.
 
