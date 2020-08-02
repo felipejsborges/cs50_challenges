@@ -37,6 +37,32 @@ An online course of [Harvard](https://online-learning.harvard.edu/) that provide
 
 - [Recover](/recover)
 
+<a href="https://cs50.harvard.edu/x/2020/psets/5/"><strong>Problem Set 5</strong></a>
+
+- [Speller](/speller)
+
+<a href="https://cs50.harvard.edu/x/2020/psets/6/"><strong>Problem Set 6</strong></a>
+
+- [Mario (Python)](/mario-python)
+
+- [Credit (Python)](/credit-python)
+
+- [Readability (Python)](/readability-python)
+
+- [DNA](/dna)
+
+<a href="https://cs50.harvard.edu/x/2020/psets/7/"><strong>Problem Set 7</strong></a>
+
+- [Movies](/movies)
+
+- [Houses](/houses)
+
+<a href="https://cs50.harvard.edu/x/2020/tracks/web/"><strong>Problem Set 8 (Web)</strong></a>
+
+- [Homepage](/homepage)
+
+- [Finance](/finance)
+
 <strong>Extra</strong>
 
 - [Algorithms](/algorithms)
