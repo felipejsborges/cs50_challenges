@@ -1,5 +1,5 @@
 <div align="center">	
-	<img src="./.github/intro.png" alt="Movies" width="50%"/>	
+	<img src="./.github/intro.png" alt="portfolio" width="50%"/>	
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@ A personal website with my professional experiences, courses and certificates.
 <hr>
 
 ### Look at the final result 📺<br>
-![housesgif](./.github/gif.gif)
+![homepagegif](./.github/gif.gif)
 <br>
 
 by Felipe Borges<br>
