@@ -1,0 +1,72 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Index
+{% endblock %}
+
+{% block main %}
+    <div class="table-responsive-sm">
+        <table class="table table-striped table-hover">
+          <thead>
+            <tr>
+              <th scope="col">Ticker</th>
+              <th scope="col">Name</th>
+              <th scope="col">Shares</th>
+              <th scope="col">AVG Purchase Price</th>
+              <th scope="col">Total Purchased</th>
+              <th scope="col">Current Price</th>
+              <th scope="col">Profit</th>
+              <th scope="col">Profit (%)</th>
+              <th scope="col">Total</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for item in data %}
+                <tr>
+                  <th scope="row">{{ item['symbol'] }}</th>
+                  <td>{{ item['name'] }}</td>
+                  <td>{{ item['shares'] }}</td>
+                  <td>{{ item['averagePriceOnBuy'] }}</td>
+                  <td>{{ item['totalBought'] }}</td>
+                  <td>{{ item['priceNow'] }}</td>
+
+                  {% if item['profitResult'] == 'positive' %}
+                    <td style="color:green;">{{ item['profit'] }}</td>
+                    <td style="color:green;">{{ item['profitPercentage'] }}</td>
+                  {% elif item['profitResult'] == 'negative' %}
+                    <td style="color:red;">{{ item['profit'] }}</td>
+                    <td style="color:red;">{{ item['profitPercentage'] }}</td>
+                  {% else %}
+                    <td>{{ item['profit'] }}</td>
+                    <td>{{ item['profitPercentage'] }}</td>
+                  {% endif %}
+
+                  <td>{{ item['totalNow'] }}</td>
+                </tr>
+            {% endfor %}
+            <tr>
+                <th scope="row">CASH</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>{{ cash }}</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <th>{{ total }}</th>
+            </tr>
+          </tbody>
+        </table>
+    </div>
+{% endblock %}

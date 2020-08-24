@@ -1,0 +1,66 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Sell
+{% endblock %}
+
+{% block main %}
+    <form action="/sell" method="post">
+        <div class="form-group">
+            <label style="margin-right: 8px" for="stock">Ticker</label>
+            <select class="form-control" id="stock" name="symbol">
+                <option>Select a stock</option>
+                {% for item in data %}
+                    <option>{{ item['symbol'] }}</option>
+                {% endfor %}
+
+            </select>
+        </div>
+
+        <div class="form-group">
+            <input id="sharesInput" style="width: 100px" autocomplete="off" autofocus class="form-control" name="shares" placeholder="Shares" type="number" min="1">
+        </div>
+        <button id="buttonId" class="btn btn-primary" type="submit">Sell</button>
+    </form>
+    <script>
+        // get DOM elements
+        var sharesInputElement = document.querySelector("#sharesInput");
+        var buttonElement = document.querySelector("#buttonId");
+        var stockSelectElement = document.querySelector('#stock');
+
+        // hide button and shares input
+        sharesInputElement.style.visibility = "hidden";
+        buttonElement.style.visibility = "hidden";
+
+        // listen to select value change
+        stockSelectElement.onchange = function(e) {
+            // set shares input value to 1
+            sharesInputElement.value = 1;
+
+            // get and data from backend
+            var dataArray = '{{ data|tojson }}';
+            var parsedDataArray = JSON.parse(dataArray);
+
+            // get stock ticker
+            var stock = e.target.value;
+
+            // get stock index on backend data
+            var index = parsedDataArray.findIndex(function(item) {
+                return item.symbol === stock;
+            });
+
+            // show button and input if stock exists or hide if does not
+            if (index < 0) {
+                sharesInputElement.style.visibility = "hidden";
+                buttonElement.style.visibility = "hidden";
+            } else {
+                // get quantity to be displayed
+                var quantity = parsedDataArray[index].quantity;
+
+                sharesInputElement.setAttribute("max", quantity);
+                sharesInputElement.style.visibility = "visible";
+                 buttonElement.style.visibility = "visible";
+            }
+        };
+    </script>
+{% endblock %}
