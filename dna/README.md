@@ -12,7 +12,7 @@
 </div>
 
 ### What is? 🤔
-A [program](./dna.py) that search in a database for a DNA of a specific person.
+A [program](./dna.py) that look for a DNA of a specific person in a database.
 <hr>
 
 ### Which technologies were used? 💻
