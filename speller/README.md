@@ -38,7 +38,7 @@ A [program](./dictionary.c) that **spell-checks** a file.
 <hr>
 
 ### Tests ✅<br>
-<img src="./.github/tests.png" alt="tidemantests" width="80%"/>
+<img src="./.github/tests.png" alt="spellertests" width="80%"/>
 <hr>
 
 by Felipe Borges<br>
