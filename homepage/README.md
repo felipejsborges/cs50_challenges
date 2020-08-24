@@ -1,28 +1,27 @@
-- [ ] - use 10 different html tags (base this website in my CV)
-    navbar in all pages
-    carousel on certificates, for example and a menu above, for each item
-	or cards+carousel
-	click on a card and open a modal
-	card or carousel with nav or scrollspy
-	for list skills: list groups
-	for languages: progress
-    footer with links
+<div align="center">	
+	<img src="./.github/intro.jpg" alt="Movies" width="50%"/>	
+</div>
 
-- [ ] - use bootstrap
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-	https://getbootstrap.com/docs/4.1/getting-started/introduction/
+<div align="center">
+	<h1>Homepage 🏠</h1>	
+</div>
 
-- [ ] - css
-	<link href="styles.css" rel="stylesheet">
-	at least five (5) different CSS selectors
-	at least five (5) different CSS properties
+<div align="center">
+	<a href="https://cs50.harvard.edu/x/2020/tracks/web/homepage/">See it on CS50x page</a> |
+	<a href="https://github.com/felipejsborges/cs50_challenges#cs50x-challenges-">Back to all projects</a>
+</div>
 
-- [ ] - Integrate one or more features of JavaScript
-	hide navbar on scroll down
+### What is? 🤔
+A personal website with my professional experiences, courses and certificates.
+<hr>
 
-- [ ] - responsive
-	use bootstrap and media queries
+### Which technologies were used? 💻
+- HTML, CSS (+ Bootstrap) e JavaScript
+<hr>
 
-- [ ] - validate structure
-	https://validator.w3.org/#validate_by_input
+### Look at the final result 📺<br>
+![housesgif](./.github/gif.gif)
+<br>
 
+by Felipe Borges<br>
+[LinkedIn](https://www.linkedin.com/in/felipejsborges) | [GitHub](https://github.com/felipejsborges)
