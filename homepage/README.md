@@ -16,7 +16,7 @@ A personal website with my professional experiences, courses and certificates.
 <hr>
 
 ### Which technologies were used? 💻
-- HTML, CSS (+ Bootstrap) e JavaScript
+- HTML, CSS (+ Bootstrap) and JavaScript
 <hr>
 
 ### Look at the final result 📺<br>
