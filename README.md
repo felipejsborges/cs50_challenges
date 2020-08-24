@@ -13,35 +13,35 @@ An online course of [Harvard](https://online-learning.harvard.edu/) that provide
 <hr>
 
 ### Where do I find the challenges? 🔍
-<a href="https://cs50.harvard.edu/x/2020/psets/1/"><strong>Problem Set 1</strong></a>
+<strong>Problem Set 1</strong>
 
 - [Mario](/mario)
 
 - [Credit](/credit)
 
-<a href="https://cs50.harvard.edu/x/2020/psets/2/"><strong>Problem Set 2</strong></a>
+<strong>Problem Set 2</strong>
 
 - [Readability](/readability)
 
 - [Substitution](/substitution)
 
-<a href="https://cs50.harvard.edu/x/2020/psets/3/"><strong>Problem Set 3</strong></a>
+<strong>Problem Set 3</strong>
 
 - [Plurality](/plurality)
 
 - [Tideman](/tideman)
 
-<a href="https://cs50.harvard.edu/x/2020/psets/4/"><strong>Problem Set 4</strong></a>
+<strong>Problem Set 4</strong>
 
 - [Filter](/filter)
 
 - [Recover](/recover)
 
-<a href="https://cs50.harvard.edu/x/2020/psets/5/"><strong>Problem Set 5</strong></a>
+<strong>Problem Set 5</strong>
 
 - [Speller](/speller)
 
-<a href="https://cs50.harvard.edu/x/2020/psets/6/"><strong>Problem Set 6</strong></a>
+<strong>Problem Set 6</strong>
 
 - [Mario (Python)](/mario-python)
 
@@ -51,13 +51,13 @@ An online course of [Harvard](https://online-learning.harvard.edu/) that provide
 
 - [DNA](/dna)
 
-<a href="https://cs50.harvard.edu/x/2020/psets/7/"><strong>Problem Set 7</strong></a>
+<strong>Problem Set 7</strong>
 
 - [Movies](/movies)
 
 - [Houses](/houses)
 
-<a href="https://cs50.harvard.edu/x/2020/tracks/web/"><strong>Problem Set 8 (Web)</strong></a>
+<strong>Problem Set 8 (Web)</strong>
 
 - [Homepage](/homepage)
 
