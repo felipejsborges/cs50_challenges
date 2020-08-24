@@ -1,0 +1,102 @@
+/* General */
+
+html {
+    --color-background: #ebecf1;
+    --color-primary: #206a5d;
+    --color-secondary: #1f4068;
+    --color-text: #FFFFFF;
+    --color-text-title: #32264D;
+    --color-text-complement: #9C98A6;
+    --color-text-base: #6A6180;
+    --color-line-in-white: #E6E6F0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins, sans-serif;
+    font-weight: 500;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
+.contentDark {
+    background-color: #363636;
+    color: #FFFFFF;
+    margin: 0 auto;
+    padding: 5% 20%;
+    justify-content: space-between;
+}
+
+.contentLight {
+    background-color: #ebecf1;
+    color: #1b262c;
+    padding: 5% 20%;
+    justify-content: space-between;
+}
+
+nav {
+    padding: 1% 20% !important;
+}
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+header img {
+    border-radius: 50%;
+    width: 40%;
+    max-width: 400px;
+    min-width: 100px;
+}
+
+header .headerText {
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+}
+
+main {
+    display: flex;
+}
+
+.educationItem {
+    padding: 0 5%;
+}
+
+footer {
+    padding: 2% 20% !important;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer div a i {
+    margin: 0 0.2rem;
+    color: #1b262c;
+}
+
+@media (max-width: 1000px) {
+    * {
+        text-align: center;
+    }
+    header {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    main {
+        flex-direction: column;
+    }
+
+    .educationItem {
+        padding: 5% 0;
+    }
+}
