@@ -11,6 +11,13 @@
 	<a href="https://github.com/felipejsborges/cs50_challenges#cs50x-challenges-">Back to all projects</a>
 </div>
 
+### Summary 🔍
+- [What is?](#what-is-)
+- [Which technologies were used?](#which-technologies-were-used-)
+- [Features](#features-)
+- [How to run this application?](#how-to-run-this-application-)
+<hr>
+
 ### What is? 🤔
 A website that simulates an investment portfolio. Users can manage their stocks: quote, buy, sell, and analyze their results. This project uses real stocks’ actual prices by querying [IEX for stocks’ prices](https://iextrading.com/apps/stocks/). They let us download stock data (in JSON) via [their API](https://iexcloud.io/docs/api/).<br>
 <div align="center">
@@ -68,7 +75,7 @@ A website that simulates an investment portfolio. Users can manage their stocks:
 </div>
 <hr>
 
-### How to run this application ▶️<br>
+### How to run this application? ▶️<br>
 
 At first, you have to register for an API key:
 
