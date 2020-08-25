@@ -72,7 +72,7 @@ A website that simulates an investment portfolio. Users can manage their stocks:
 
 At first, you have to register for an API key:
 
-- Visit iexcloud.io/cloud-login#/register/ and create an account
+- [Click here](https://iexcloud.io/cloud-login#/register/) and create an account
 - Choose the Start (free) plan.
 - Confirm your account via email, and sign in to iexcloud.io.
 - Click on API Tokens.
