@@ -23,39 +23,39 @@ A website that simulates an investment portfolio. Users can manage their stocks:
 <hr>
 
 ### Features ✅<br>
-<div>
+<div align="center">
 	<h4>Register</h4>
-	<img src="./.github/register.gif">
+	<img width="50%" src="./.github/register.gif">
 </div>
 <hr>
-<div>
+<div align="center">
 	<h4>Login</h4>
-	<img src="./.github/login.gif">
+	<img width="50%" src="./.github/login.gif">
 </div>
 <hr>
-<div>
+<div align="center">
 	<h4>Quote</h4>
-	<img src="./.github/quote.gif">
+	<img width="50%" src="./.github/quote.gif">
 </div>
 <hr>
-<div>
+<div align="center">
 	<h4>Buy</h4>
-	<img src="./.github/buy.gif">
+	<img width="50%" src="./.github/buy.gif">
 </div>
 <hr>
-<div>
+<div align="center">
 	<h4>Sell</h4>
-	<img src="./.github/sell.gif">
+	<img width="50%" src="./.github/sell.gif">
 </div>
 <hr>
-<div>
+<div align="center">
 	<h4>Index</h4>
-	<img src="./.github/index.png">
+	<img width="50%" src="./.github/index.png">
 </div>
 <hr>
-<div>
+<div align="center">
 	<h4>Logout</h4>
-	<img src="./.github/logout.gif">
+	<img width="50%" src="./.github/logout.gif">
 </div>
 <hr>
 
