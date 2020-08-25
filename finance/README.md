@@ -25,25 +25,25 @@ A website that simulates an investment portfolio. Users can manage their stocks:
 ### Features ✅<br>
 #### Register
 ![register](./.github/register.gif)<br>
-<hr>
+<hr><br>
 #### Login
 ![login](./.github/login.gif)<br>
-<hr>
+<hr><br>
 #### Quote
 ![quote](./.github/quote.gif)<br>
-<hr>
+<hr><br>
 #### Buy
 ![buy](./.github/buy.gif)<br>
-<hr>
+<hr><br>
 #### Sell
 ![sell](./.github/sell.gif)<br>
-<hr>
+<hr><br>
 #### Index
 ![index](./.github/index.png)<br>
-<hr>
+<hr><br>
 #### Logout
 ![logout](./.github/logout.gif)<br>
-<hr>
+<hr><br>
 
 by Felipe Borges<br>
 [LinkedIn](https://www.linkedin.com/in/felipejsborges) | [GitHub](https://github.com/felipejsborges)
