@@ -74,7 +74,7 @@ At first, you have to register for an API key:
 
 - [Click here](https://iexcloud.io/cloud-login#/register/) and create an account
 - Choose the Start (free) plan.
-- Confirm your account via email, and sign in to iexcloud.io.
+- Confirm your account via email, and [sign in to iexcloud.io](https://iexcloud.io/cloud-login).
 - Click on API Tokens.
 - Copy the key that appears under the Token column (it should begin with pk_) and save it to be used later.
 <br>
