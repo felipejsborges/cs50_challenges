@@ -15,7 +15,7 @@
 - [What is?](#what-is-)
 - [Which technologies were used?](#which-technologies-were-used-)
 - [Features](#features-)
-- [How to run this application?](#how-to-run-this-application-)
+- [How to run this application?](#how-to-run-this-application-%EF%B8%8F)
 <hr>
 
 ### What is? 🤔
