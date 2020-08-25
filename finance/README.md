@@ -68,5 +68,42 @@ A website that simulates an investment portfolio. Users can manage their stocks:
 </div>
 <hr>
 
+### How to run this application ▶️<br>
+
+At first, you have to register for an API key:
+
+- Visit iexcloud.io/cloud-login#/register/ and create an account
+- Choose the Start (free) plan.
+- Confirm your account via email, and sign in to iexcloud.io.
+- Click on API Tokens.
+- Copy the key that appears under the Token column (it should begin with pk_) and save it to be used later.
+<br>
+
+Now:
+
+- Clone [this repo](https://github.com/felipejsborges/cs50_challenges)
+```bash
+$ git clone https://github.com/felipejsborges/cs50_challenges.git
+```
+
+- Go to Finance folder
+```bash
+$ cd cs50_challenges/finance
+```
+
+- Export API key
+```bash
+$ export API_KEY=<copied key>
+```
+
+- Run flask project ([click here](https://flask.palletsprojects.com/en/1.1.x/quickstart/) if you need help with that)
+```bash
+$ export FLASK_APP=application.py
+$ flask run
+```
+
+- Visit the URL outputted by flask to see the Finance Website in action.
+<hr>
+
 by Felipe Borges<br>
 [LinkedIn](https://www.linkedin.com/in/felipejsborges) | [GitHub](https://github.com/felipejsborges)
