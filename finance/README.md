@@ -61,6 +61,7 @@ A website that simulates an investment portfolio. Users can manage their stocks:
 	<h4>History</h4>
 	<img width="75%" src="./.github/history.gif">
 </div>
+<hr>
 <div align="center" style="border: solid 1px;">
 	<h4>Logout</h4>
 	<img width="75%" src="./.github/logout.gif">
