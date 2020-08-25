@@ -12,7 +12,11 @@
 </div>
 
 ### What is? 🤔
-A website that simulates an investment portfolio. Users can manage their stocks: quote, buy, sell, and analyze their results. This project uses real stocks’ actual prices by querying [IEX for stocks’ prices](https://iextrading.com/apps/stocks/). They let us download stock data (in JSON) via [their API](https://iexcloud.io/docs/api/).
+A website that simulates an investment portfolio. Users can manage their stocks: quote, buy, sell, and analyze their results. This project uses real stocks’ actual prices by querying [IEX for stocks’ prices](https://iextrading.com/apps/stocks/). They let us download stock data (in JSON) via [their API](https://iexcloud.io/docs/api/).<br>
+<div align="center">
+	<h4>See how it looks</h4>
+	<img width="75%" src="./.github/result.png">
+</div>
 <hr>
 
 ### Which technologies were used? 💻
@@ -53,6 +57,10 @@ A website that simulates an investment portfolio. Users can manage their stocks:
 	<img width="75%" src="./.github/index.png">
 </div>
 <hr>
+<div align="center" style="border: solid 1px;">
+	<h4>History</h4>
+	<img width="75%" src="./.github/history.gif">
+</div>
 <div align="center" style="border: solid 1px;">
 	<h4>Logout</h4>
 	<img width="75%" src="./.github/logout.gif">
